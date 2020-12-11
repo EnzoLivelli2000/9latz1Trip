@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "967912472490",
+    "firebase_url": "https://tripsflutter-cbda9.firebaseio.com",
+    "project_id": "tripsflutter-cbda9",
+    "storage_bucket": "tripsflutter-cbda9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967912472490:android:48411f16bc64548965f5d3",
+        "android_client_info": {
+          "package_name": "com.example.trip_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967912472490-0ggf8m3ejos7i8e15tc4h33ks2nv5pgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWdVt6eNHeNiazwRGk3Fs7-QnWlRYzwfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967912472490-0ggf8m3ejos7i8e15tc4h33ks2nv5pgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
